@@ -1,6 +1,6 @@
 # TODO: #
 * Map
- * :O Create map editor.
+ * Create map editor.
  * Add de/serialization of map via xml
 
 * Missiles
