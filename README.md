@@ -1,4 +1,5 @@
 # TODO: #
+mac os
 * Map
  * Create map editor.
  * Add de/serialization of map via xml
